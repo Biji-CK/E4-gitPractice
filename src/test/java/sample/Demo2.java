@@ -6,6 +6,7 @@ public class Demo2 {
 	{
 		System.out.println("Biji Vinod");
 		System.out.println("ohoooooooo ALAPUZHA Babyyyyyy");
+		System.out.println("hey...what is wrong with you mam??!!");
 	}
 
 }
